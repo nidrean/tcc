@@ -1,0 +1,145 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 2602px;
+    width: 4275px;
+  }
+  
+  .frame .overlap-group {
+    height: 2556px;
+    position: relative;
+  }
+  
+  .frame .text-wrapper {
+    color: #ffffff;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 120px;
+    font-weight: 400;
+    left: 203px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1436px;
+    width: 1098px;
+  }
+  
+  .frame .div {
+    color: #ffffff;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 120px;
+    font-weight: 400;
+    left: 203px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1205px;
+    width: 1098px;
+  }
+  
+  .frame .text-wrapper-2 {
+    color: #5483bf;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    left: 203px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2408px;
+    width: 377px;
+  }
+  
+  .frame .icones-de-vetor-de {
+    height: 193px;
+    left: 26px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 177px;
+  }
+  
+  .frame .rectangle {
+    background-color: #2949a6;
+    height: 2324px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 4275px;
+  }
+  
+  .frame .rectangle-2 {
+    background-color: #ffffff;
+    border-radius: 40px;
+    height: 1068px;
+    left: 203px;
+    position: absolute;
+    top: 546px;
+    width: 945px;
+  }
+  
+  .frame .rectangle-3 {
+    background-color: #ffffff;
+    border-radius: 40px;
+    height: 1084px;
+    left: 1665px;
+    position: absolute;
+    top: 546px;
+    width: 945px;
+  }
+  
+  .frame .rectangle-4 {
+    background-color: #ffffff;
+    border-radius: 40px;
+    height: 1084px;
+    left: 3120px;
+    position: absolute;
+    top: 546px;
+    width: 945px;
+  }
+  
+  .frame .text-wrapper-3 {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 135px;
+    font-weight: 400;
+    left: 1568px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1904px;
+  }
+  
+  .frame .icone-de-midia {
+    height: 391px;
+    left: 437px;
+    object-fit: cover;
+    position: absolute;
+    top: 2165px;
+    width: 478px;
+  }
+  
+  .frame .img {
+    height: 391px;
+    left: 1899px;
+    object-fit: cover;
+    position: absolute;
+    top: 2165px;
+    width: 478px;
+  }
+  
+  .frame .icone-de-midia-2 {
+    height: 391px;
+    left: 3354px;
+    object-fit: cover;
+    position: absolute;
+    top: 2165px;
+    width: 478px;
+  }
+  

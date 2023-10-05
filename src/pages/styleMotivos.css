@@ -1,0 +1,211 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .overlap-group-wrapper {
+    background-color: #ffffff;
+    height: 3207px;
+    width: 4275px;
+  }
+  
+  .frame .overlap-group {
+    height: 3202px;
+    position: relative;
+  }
+  
+  .frame .text-wrapper {
+    color: #ffffff;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 120px;
+    font-weight: 400;
+    left: 203px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2041px;
+    width: 1098px;
+  }
+  
+  .frame .div {
+    color: #ffffff;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 120px;
+    font-weight: 400;
+    left: 203px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1810px;
+    width: 1098px;
+  }
+  
+  .frame .text-wrapper-2 {
+    color: #5483bf;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    left: 203px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3013px;
+    width: 377px;
+  }
+  
+  .frame .icones-de-vetor-de {
+    height: 193px;
+    left: 26px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 177px;
+  }
+  
+  .frame .rectangle {
+    background-color: #73b2d9bf;
+    height: 1321px;
+    left: 0;
+    position: absolute;
+    top: 1608px;
+    width: 4275px;
+  }
+  
+  .frame .img {
+    height: 170px;
+    left: 2807px;
+    object-fit: cover;
+    position: absolute;
+    top: 760px;
+    width: 177px;
+  }
+  
+  .frame .image {
+    height: 161px;
+    left: 2019px;
+    object-fit: cover;
+    position: absolute;
+    top: 764px;
+    width: 161px;
+  }
+  
+  .frame .confiabilidade {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 1748px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1998px;
+  }
+  
+  .frame .resposta-r-pida {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 2640px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1998px;
+  }
+  
+  .frame .image-2 {
+    height: 150px;
+    left: 1133px;
+    object-fit: cover;
+    position: absolute;
+    top: 765px;
+    width: 180px;
+  }
+  
+  .frame .detec-o-precisa {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 948px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2010px;
+  }
+  
+  .frame .line {
+    height: 644px;
+    left: 1683px;
+    position: absolute;
+    top: 769px;
+    width: 14px;
+  }
+  
+  .frame .line-2 {
+    height: 644px;
+    left: 2500px;
+    position: absolute;
+    top: 769px;
+    width: 14px;
+  }
+  
+  .frame .p {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 80px;
+    font-weight: 400;
+    left: 1463px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2637px;
+  }
+  
+  .frame .rectangle-2 {
+    background-color: #2949a6;
+    height: 1608px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 4275px;
+  }
+  
+  .frame .programadora {
+    height: 1603px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 1599px;
+    width: 1800px;
+  }
+  
+  .frame .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 95px;
+    font-weight: 400;
+    left: 1920px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1179px;
+    width: 1814px;
+  }
+  
+  .frame .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 75px;
+    font-weight: 400;
+    left: 1920px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 286px;
+    width: 2265px;
+  }
+  

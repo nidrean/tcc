@@ -1,0 +1,18 @@
+.label {
+    height: 457px;
+    width: 1863px;
+  }
+  
+  .label .text-wrapper {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 75px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 0;
+    width: 1863px;
+  }
+  

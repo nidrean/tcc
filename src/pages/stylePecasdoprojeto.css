@@ -1,0 +1,298 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #ffffff;
+    height: 2483px;
+    overflow: hidden;
+    position: relative;
+    width: 4275px;
+  }
+  
+  .frame .overlap-group {
+    height: 2264px;
+    left: 0;
+    position: absolute;
+    top: 315px;
+    width: 4275px;
+  }
+  
+  .frame .processos-resultado {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 3004px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2094px;
+    width: 1173px;
+  }
+  
+  .frame .text-wrapper {
+    color: #ffffff;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 75px;
+    font-weight: 400;
+    left: 203px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 712px;
+    width: 1209px;
+  }
+  
+  .frame .p {
+    color: #ffffff;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 80px;
+    font-weight: 400;
+    left: 203px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1021px;
+    width: 1902px;
+  }
+  
+  .frame .text-wrapper-2 {
+    color: #5483bf;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    left: 203px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1937px;
+    width: 377px;
+  }
+  
+  .frame .rectangle {
+    height: 2168px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 4275px;
+  }
+  
+  .frame .rectangle-2 {
+    background-color: #73b2d987;
+    border-radius: 20px;
+    height: 692px;
+    left: 180px;
+    position: absolute;
+    top: 423px;
+    width: 572px;
+  }
+  
+  .frame .text-wrapper-3 {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 45px;
+    font-weight: 400;
+    left: 315px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 554px;
+    width: 353px;
+  }
+  
+  .frame .arduino-uno {
+    height: 360px;
+    left: 270px;
+    object-fit: cover;
+    position: absolute;
+    top: 816px;
+    width: 398px;
+  }
+  
+  .frame .rectangle-3 {
+    background-color: #73b2d987;
+    border-radius: 20px;
+    height: 692px;
+    left: 868px;
+    position: absolute;
+    top: 423px;
+    width: 572px;
+  }
+  
+  .frame .text-wrapper-4 {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 45px;
+    font-weight: 400;
+    left: 1003px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 554px;
+    width: 353px;
+  }
+  
+  .frame .arduino-uno-r-ch {
+    height: 360px;
+    left: 958px;
+    object-fit: cover;
+    position: absolute;
+    top: 816px;
+    width: 398px;
+  }
+  
+  .frame .rectangle-4 {
+    background-color: #73b2d987;
+    border-radius: 20px;
+    height: 692px;
+    left: 1556px;
+    position: absolute;
+    top: 423px;
+    width: 572px;
+  }
+  
+  .frame .text-wrapper-5 {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 45px;
+    font-weight: 400;
+    left: 1691px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 554px;
+    width: 353px;
+  }
+  
+  .frame .img {
+    height: 360px;
+    left: 1646px;
+    object-fit: cover;
+    position: absolute;
+    top: 816px;
+    width: 398px;
+  }
+  
+  .frame .rectangle-5 {
+    background-color: #73b2d987;
+    border-radius: 20px;
+    height: 692px;
+    left: 2244px;
+    position: absolute;
+    top: 423px;
+    width: 572px;
+  }
+  
+  .frame .text-wrapper-6 {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 45px;
+    font-weight: 400;
+    left: 2379px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 554px;
+    width: 353px;
+  }
+  
+  .frame .arduino-uno-2 {
+    height: 360px;
+    left: 2334px;
+    object-fit: cover;
+    position: absolute;
+    top: 816px;
+    width: 398px;
+  }
+  
+  .frame .rectangle-6 {
+    background-color: #73b2d987;
+    border-radius: 20px;
+    height: 692px;
+    left: 2932px;
+    position: absolute;
+    top: 423px;
+    width: 572px;
+  }
+  
+  .frame .text-wrapper-7 {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 45px;
+    font-weight: 400;
+    left: 3067px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 554px;
+    width: 353px;
+  }
+  
+  .frame .arduino-uno-3 {
+    height: 360px;
+    left: 3022px;
+    object-fit: cover;
+    position: absolute;
+    top: 816px;
+    width: 398px;
+  }
+  
+  .frame .rectangle-7 {
+    background-color: #73b2d987;
+    border-radius: 20px;
+    height: 692px;
+    left: 3620px;
+    position: absolute;
+    top: 423px;
+    width: 572px;
+  }
+  
+  .frame .text-wrapper-8 {
+    color: #000000;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 45px;
+    font-weight: 400;
+    left: 3755px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 554px;
+    width: 353px;
+  }
+  
+  .frame .arduino-uno-4 {
+    height: 360px;
+    left: 3710px;
+    object-fit: cover;
+    position: absolute;
+    top: 816px;
+    width: 398px;
+  }
+  
+  .frame .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Dela Gothic One-Regular", Helvetica;
+    font-size: 120px;
+    font-weight: 400;
+    left: 1533px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1472px;
+    width: 1209px;
+  }
+  
+  .frame .icones-de-vetor-de {
+    height: 193px;
+    left: 26px;
+    object-fit: cover;
+    position: absolute;
+    top: 37px;
+    width: 177px;
+  }
+  
