@@ -1,45 +1,40 @@
-import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "./styleInicio.css"
 
-
-const Home = () => {
-  const [currentPage, setCurrentPage] = useState("Inicio");
-  const handleClick = (page) => {
-    setCurrentPage(page);
-  };
+const Inicio = () => {
+  
   return (
     <div>
       <h1>Inicio</h1>
       <ul>
         <li>
-          <Link to="/PyroBot" onClick={() => handleClick("PyroBot")}>
+          <Link to="/PyroBot" >
             PyroBot
           </Link>
         </li>
         <li>
-          <Link to="/Motivos" onClick={() => handleClick("Motivos")}>
+          <Link to="/Motivos" >
             Motivos
           </Link>
         </li>
         <li>
-          <Link to="/QuemSomos" onClick={() => handleClick("QuemSomos")}>
+          <Link to="/QuemSomos" >
             Quem Somos
           </Link>
         </li>
         <li>
-          <Link to="/Ideia" onClick={() => handleClick("Ideia")}>
+          <Link to="/Ideia" >
             Ideia
           </Link>
         </li>
         <li>
-          <Link to="/Resultados" onClick={() => handleClick("Resultados")}>
+          <Link to="/Resultados" >
             Resultados
           </Link>
         </li>
       </ul>
-      <button onClick={() => handleClick("Inicio")}>Voltar para Início</button>
+      <button>Voltar para Início</button>
     </div>
   )
 }
-export default Home;
+export default Inicio;

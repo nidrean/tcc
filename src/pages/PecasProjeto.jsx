@@ -1,7 +1,7 @@
-import React from "react";
+
 import "./stylePecasdoprojeto.css";
 
-export const PecasdoProjeto = () => {
+export const PecasProjeto = () => {
   return (
     <div className="frame">
       <div className="div">
@@ -42,4 +42,4 @@ export const PecasdoProjeto = () => {
   )
 }
 
-export default PecasdoProjeto;
+export default PecasProjeto;

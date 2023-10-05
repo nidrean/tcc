@@ -1,7 +1,7 @@
-import React from "react";
+
 import "./styleMotivos.css";
 
-export const Frame = () => {
+export const Motivos = () => {
   return (
     <div className="frame">
       <div className="overlap-group-wrapper">
@@ -55,5 +55,5 @@ export const Frame = () => {
   )
 }
 
-export default Frame;
+export default Motivos;
 

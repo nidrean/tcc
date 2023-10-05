@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./stylePyroBot.css";
 
 export const PyroBot = () => {
