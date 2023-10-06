@@ -12,8 +12,7 @@ export const Motivos = () => {
           <img
             className="icones-de-vetor-de"
             alt="Icones de vetor de"
-            src="icones-de-vetor-de-chamas-de-gas-isolados-do-fundo-sinal-definido-azul-queimando-gas-natural-no-estilo-simples-ilustracao-vetorial-297535-3712-9.png"
-          />
+            src="icones-de-vetor-de-chamas-de-gas-isolados-do-fundo-sinal-definido-azul-queimando-gas-natural-no-estilo-simples-ilustracao-vetorial-297535-3712-9.png" />
           <div className="rectangle" />
           <img className="img" alt="Rectangle" src="rectangle-65.png" />
           <img className="image" alt="Image" src="image-3.png" />

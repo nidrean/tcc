@@ -296,3 +296,26 @@
     width: 177px;
   }
   
+  @media (max-width: 1366px){
+    .box {
+      display: none;
+    }
+  }
+
+  @media (max-width: 1026px){
+    .box {
+      display: none;
+    }
+  }
+
+  @media (max-width: 768px){
+    .box {
+      display: none;
+    }
+  }
+
+  @media (max-width: 480px){
+    .box {
+      display: none;
+    }
+  }
